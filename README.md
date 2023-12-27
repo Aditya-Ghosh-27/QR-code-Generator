@@ -60,12 +60,4 @@ Contributions are welcome! If you have any ideas for improvement or find any iss
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to [qrcode.react](https://github.com/zpao/qrcode.react) for providing the QR code generation component.
-
----
-
-**Note:** Make sure to replace placeholders like `your-username` with your actual GitHub username and customize the content as needed for your project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.   
